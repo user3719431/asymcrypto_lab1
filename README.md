@@ -1,4 +1,4 @@
-"Construction of tests for checking the quality of random and pseudo-random sequences"
+# "Construction of tests for checking the quality of random and pseudo-random sequences"
 
 Muzychenko Olexandr
 
