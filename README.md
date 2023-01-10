@@ -1,6 +1,3 @@
-#Construction of tests for checking the quality of random and pseudo-random sequences
-AsymCrypto lab1 
-
 "Construction of tests for checking the quality of random and pseudo-random sequences"
 
 Muzychenko Olexandr
